@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/foodbookdelivery/static/css/main.d63fc77b.chunk.css",
+    "main.js": "/foodbookdelivery/static/js/main.bc638d6f.chunk.js",
+    "main.js.map": "/foodbookdelivery/static/js/main.bc638d6f.chunk.js.map",
+    "runtime-main.js": "/foodbookdelivery/static/js/runtime-main.0ccf7b41.js",
+    "runtime-main.js.map": "/foodbookdelivery/static/js/runtime-main.0ccf7b41.js.map",
+    "static/css/2.94d102f3.chunk.css": "/foodbookdelivery/static/css/2.94d102f3.chunk.css",
+    "static/js/2.ccc5aeac.chunk.js": "/foodbookdelivery/static/js/2.ccc5aeac.chunk.js",
+    "static/js/2.ccc5aeac.chunk.js.map": "/foodbookdelivery/static/js/2.ccc5aeac.chunk.js.map",
+    "index.html": "/foodbookdelivery/index.html",
+    "static/css/2.94d102f3.chunk.css.map": "/foodbookdelivery/static/css/2.94d102f3.chunk.css.map",
+    "static/css/main.d63fc77b.chunk.css.map": "/foodbookdelivery/static/css/main.d63fc77b.chunk.css.map",
+    "static/js/2.ccc5aeac.chunk.js.LICENSE.txt": "/foodbookdelivery/static/js/2.ccc5aeac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ccf7b41.js",
+    "static/css/2.94d102f3.chunk.css",
+    "static/js/2.ccc5aeac.chunk.js",
+    "static/css/main.d63fc77b.chunk.css",
+    "static/js/main.bc638d6f.chunk.js"
+  ]
+}
